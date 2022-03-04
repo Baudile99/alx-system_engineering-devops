@@ -17,3 +17,4 @@ You are not allowed to use commas for this script.
 The file hello will be in the working directory
 The file olleh will be in the working directory.
 11-directories-permissions : A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
+12-directory-permissions : A script that creates a directory called my-dir with permissions 751 in the working directory.
