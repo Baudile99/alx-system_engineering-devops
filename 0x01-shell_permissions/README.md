@@ -19,3 +19,4 @@ The file olleh will be in the working directory.
 11-directories-permissions : A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 12-directory-permissions : A script that creates a directory called my-dir with permissions 751 in the working directory.
 13-change-group : Ascript that changes the group owner to school for the file hello.
+100-change-owner-and-group:  A script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
